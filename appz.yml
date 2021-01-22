@@ -1,7 +1,7 @@
 app:
   name: wordpress
   code: wordpress
-  notify: priyankagadipally324@gmail.com
+  notify: priyankagadipally123@gmail.com
 
 build:
   version: 5.5
